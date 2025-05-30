@@ -1,0 +1,22 @@
+python requirements
+	- tkinter
+	- json
+	- requests
+	- random
+
+
+
+updates:
+	- added GUI
+	- easier to navigate
+	- submit button
+	- organized categories
+cons:
+	- cant press enter
+	- have to put in a number and not what you want
+
+notes:
+	- complete python simple code
+	- anyone that uses this can study it and make their own program
+	- made in VSCode and tested in powershell
+	- this is for educational purposes and not for any bad intent
