@@ -1,3 +1,6 @@
+upgrades/cons for IP_Tracker 3.0
+Updated 6/27/25
+
 UPDATES
 	- bigger GUI and text box to see everything better
 	- saves every IP tracked into a file named as that IP
