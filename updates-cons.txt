@@ -1,0 +1,10 @@
+UPDATES
+	- bigger GUI and text box to see everything better
+	- saves every IP tracked into a file named as that IP
+	- close button to close GUI faster and easier
+
+
+CONS
+	- if IP is tracked twice, it wont override the content in the file but move the new 	content to the bottom of previous track
+	- big GUI
+	- still no enter button embedded

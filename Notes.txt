@@ -1,0 +1,15 @@
+python requirements
+	- tkinter
+	- json
+	- requests
+	- random
+	- argparse
+
+
+notes:
+	- complete python simple code
+	- anyone that uses this can study it and make their own program
+	- made in VSCode and tested in powershell
+	- this is for educational purposes and not for any bad intent
+	- to run Simple_locate, simple type "python Simple_type.py " then the ip address before you press enter, for example
+										"python Simple_Locate.py 8.8.8.8"
